@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(232, 230, 230);
+    margin: auto;
+    margin-top: 50px;
+}
+.container {
+    text-align: left;
+}
+h1 {
+    color:rgb(21, 109, 23);
+    font-family: Courier, monospace;
+    font-size: 4em;
+}
+h2 {
+    color:rgb(20, 73, 21);
+    font-family: Courier, monospace;
+    font-size: xx-large;
+}
+p {
+    color:rgb(20, 73, 21);
+    font-family: Courier;
+    line-height: 40px;
+    font-size:x-large;
+}
